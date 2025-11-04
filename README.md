@@ -1,1 +1,2 @@
-![image alt](link)
+Program ini digunakan untuk melakukan penjumlahan dua buah matriks. User akan memasukkan jumlah baris dan kolom matriks, kemudian mengisi setiap elemen dari Matriks A dan Matriks B. Setelah semua data dimasukkan, program akan menghitung dan menampilkan hasil penjumlahan kedua matriks tersebut dalam bentuk Matriks C, dimana setiap elemen C diperoleh dari penjumlahan elemen Matriks A dan B pada posisi yang sama
+![image alt](https://github.com/ryu-bit676/soal-2-sulit/blob/fc7b814e4ca6fc594dce27f62cc4ac7b04416f7f/Screenshot%202025-11-04%20163750.png)
